@@ -54,7 +54,7 @@ DB設計から携わることも多く、フロント・API・データ収集ま
 | 2017年11月<br>〜<br>2018年6月<br> （8ヶ月） | [プロジェクト名]<br>1secプロジェクト<br>[概要]<br>アットコスメのサービス全体で表示が遅い箇所<br>を改善し平均表示を1秒に抑えるプロジェクト | DB:SQL Server, Elasticsearch<br>FW: Phalcon, Goa<br>その他:<br>Apache Kafka | [プロジェクト要員]<br>エンジニア7名<br>[自分の担当]<br>Elasticsearchマッピング設計<br>データ投入バッチ作成(Golang)<br>API開発(Golang)<br>フロントレビュー(PHP,JS) |
 | 2018年6月<br>〜<br>2018年8月<br> （3ヶ月） | [プロジェクト名]<br>@cosmeアプリメッセージ機能<br>[概要]<br>アプリ上で専門家とやり取りを行う<br>メッセージ機能の追加 | DB:MySQL<br>FW:Goa | [プロジェクト要員]<br>全体6名<br>エンジニア3名<br>[自分の担当]<br>API開発(Golang) |
 | 2018年9月<br>〜<br>2018年12月<br> （4ヶ月） | [プロジェクト名]<br>@cosme Beauty Day<br>[概要]<br>公式通販イベントの特設サイト開発 | Vue.js<br>AWS(CloudFront,Lambda@Edge) | [プロジェクト要員]<br>全体10名<br>エンジニア4名<br>[自分の担当]<br>Vue.jsコンポーネント開発<br>AWS環境整備<br>デザイナへの開発環境、CI環境サポート |
-| 2019年1月<br>〜<br>2019年6月<br> （6ヶ月） | [プロジェクト名]<br>ラムダプロジェクト<br>[概要]<br>マイクロサービス化を見据えデータ基盤を整える<br>ラムダアーキテクチャに則りリアルタイムデータ収集を行う | 言語:Golang/Scala<br>ミドルウェア:<br>Hadoop HDFS<br>Apache Spark<br>Kafka<br>その他:<br>Ansible<br>fluentd | [プロジェクト要員]<br>エンジニア7名<br>[自分の担当]<br>Kafka環境構築<br>Spark Streaming, Kafka Streamsプログラムの基礎開発<br>Kafkaを中心とした分散メッセージシステムの社内教示 |
+| 2019年1月<br>〜<br>2019年6月<br> （6ヶ月） | [プロジェクト名]<br>ラムダプロジェクト<br>[概要]<br>マイクロサービス化を見据えデータ基盤を整える<br>ラムダアーキテクチャに則りリアルタイムデータ収集を行う | 言語:Golang/Scala<br>ミドルウェア:<br>Hadoop HDFS<br>Apache Spark<br>Kafka<br>その他:<br>Ansible<br>fluentd<br>etcd | [プロジェクト要員]<br>エンジニア7名<br>[自分の担当]<br>Kafka環境構築<br>Spark Streaming, Kafka Streamsプログラムの基礎開発<br>Kafkaを中心とした分散メッセージシステムの社内教示 |
 | 2019年5月<br>〜<br>2019年8月<br> （4ヶ月） | [プロジェクト名]<br>コンテンツレコメンド<br>[概要]<br>収集した様々なデータを用いて機械学習<br>回遊パーツに適用しユーザへのコンテンツレコメンドを行う | 言語: Python<br>ツール: Jupyter Notebook<br>手法: 協調フィルタリング(Spark ALS) | [プロジェクト要員]<br>エンジニア4名<br>[自分の担当]<br>データパイプライン設計<br>関連部署との調整<br>メンバーのマネジメント |
 
 ## 技術スキル
