@@ -59,7 +59,7 @@ DB設計から携わることも多く、フロント・API・データ収集ま
 ## 技術スキル
 - OS：Ubuntu/CentOS（9年）
 - 言語：PHP（7年）、JavaScript(9年)、TypeScript（2年）、Golang（2年）、Python（半年）、Scala（1年）、Ruby（1年）、Objective-C（1年）、Java（1年）
-- フレームワーク：PHP社内フレームワーク（4年）、Smarty（4年）、Laravel4,Laravel5（5年）、Goa（2年）、AngularJS 1.3（2年）、jQuery（4年）、React.js（1年）、Vue.js（1年）、Ruby on Rails（1年）
+- フレームワーク：PHP社内フレームワーク（4年）、Smarty（4年）、Laravel4,Laravel5（5年）、Goa（2年）、AngularJS 1.3（2年）、jQuery（4年）、React.js（2年）、Vue.js（2年）、Ruby on Rails（1年）
 - DB：MySQL（7年）、Oracle（2年）、Elasticsearch（2年）
 - ミドルウェア：Apache Kafka（2年）、Rabbit MQ（1年）、Apache Spark（半年）、Hadoop HDFS（半年）、fluentd（1年）
 - 開発スキーム：GitHub（8年）、JIRA（5年）、Confluence（6年）
