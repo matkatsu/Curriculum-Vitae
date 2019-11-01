@@ -88,9 +88,9 @@ DB設計から携わることも多く、フロント・API・データ収集ま
     - [個人ブログ](https://romiogaku.hateblo.jp/)
     - istyle Techブログ（[記事1](https://techblog.istyle.co.jp/archives/3242)）（[記事2](https://techblog.istyle.co.jp/archives/3424)）
 - 趣味プロダクト
-    - [difftron](https://github.com/matkatsu/difftron): Electron製Diffツール
+    - [difftron](https://github.com/matkatsu/difftron): Diffツール(Electron)
     - [Aikatsu LGTM](https://chrome.google.com/webstore/detail/aikatsu-lgtm/hfghncahhcpoinieideaciniogbnmomb?hl=ja): Chrome拡張機能
     - [Avro Viewer for VS Code](https://marketplace.visualstudio.com/items?itemName=romiogaku.vscode-avro-viewer): VSCode拡張 Avroファイルビューワー
-    - [confgen](https://github.com/romiogaku/confgen): etcd等のKVSからアプリケーション設定ファイルを生成するツール
-    - [VClip](https://vclip.romiogaku.com/): VTuber切り抜き動画まとめ
-    - [Talk now](https://talk-now.net/): グループ通話サービス（WebRTC,firebase）
+    - [confgen](https://github.com/romiogaku/confgen): etcd等のKVSからアプリケーション設定ファイルを生成するCLI(Golang)
+    - [VClip](https://vclip.romiogaku.com/): VTuber切り抜き動画まとめ(Nuxt.js/Elasticsearch/AWS)
+    - [Talk now](https://talk-now.net/): グループ通話サービス(WebRTC/Next.js/Firebase/GKE)
