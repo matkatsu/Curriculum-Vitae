@@ -93,4 +93,4 @@ DB設計から携わることも多く、フロント・API・データ収集ま
     - [Avro Viewer for VS Code](https://marketplace.visualstudio.com/items?itemName=romiogaku.vscode-avro-viewer): VSCode拡張 Avroファイルビューワー
     - [confgen](https://github.com/romiogaku/confgen): etcd等のKVSからアプリケーション設定ファイルを生成するツール
     - [VClip](https://vclip.romiogaku.com/): VTuber切り抜き動画まとめ
-    - [Talk now](https://talk-now.net/): グループ通話サービス
+    - [Talk now](https://talk-now.net/): グループ通話サービス（WebRTC,firebase）
